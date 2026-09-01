@@ -4,11 +4,11 @@ Ele vai construir toda a infra da página web por meio de tags e etc.
 
 Eles trabalham com tags que tem abrem e fecham. Elas abrem com <> e fecham com </>
 
-Para parágrafos usa-se: <p> </p>
+Para parágrafos usa-se p> /p>
 
-Os títulos seguem uma hierarquia de <h1> até <h6>.
+Os títulos seguem uma hierarquia de h1 até h6.
 
-O atributo src é usado para localizar imagens. assim <img src />
+O atributo src é usado para localizar imagens. assim img src />
 
 O atributo alt é usado dentro do img para colocar um comentário no src. 
 
@@ -22,19 +22,19 @@ Ele é seguido por um = com aspas cercando o atributo.
 
 O atributo href especifica o URL de um link e o atributo target especifica onde abrir o link.
 
-Ex: <a href="https://www.freecodecamp.org/news/" target="_blank">Visit freeCodeCamp</a> (O _blank serve para abrir uma nova aba)
+Ex: a href="https://www.freecodecamp.org/news/" target="_blank">Visit freeCodeCamp</ (O _blank serve para abrir uma nova aba)
 
-<input type="checkbox" checked /> Esse código vai gerar uma caixinha pra marcar e desmarcar. 
+input type="checkbox" checked /> Esse código vai gerar uma caixinha pra marcar e desmarcar. 
 
 Existem vários atributos booleanos comuns que você encontrará em HTML, como checked disabled, readonly e required. 
 Esses atributos são usados para especificar o estado de um elemento, como se ele está desabilitado, somente leitura ou obrigatório.
 
-O atributo <input type="text" > vai gerar uma caixa para digitar. 
+O atributo input type="text" > vai gerar uma caixa para digitar. 
 
 -------------------
 
 O elemento link é usado para vincular recursos externos como folhas de estilo e ícones do site. Ele deve ser colocado dentro da tag head.
-Ex: <link rel="stylesheet" href="./styles.css" />
+Ex: link rel="stylesheet" href="./styles.css" />
 
 O rel é usado para especificar a relação entre o recurso vinculado e o documento HTML.
 

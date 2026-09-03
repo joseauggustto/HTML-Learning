@@ -44,3 +44,17 @@ O boilerplate é um modelo pronto de html. Ele carrega os elementos básicos de 
 Ele garante que suas páginas estejam estruturadas corretamente e funcionem bem em diferentes navegadores. 
 Usar um boilerplate ajuda você a evitar erros comuns e seguir as melhores práticas.
 
+-------------------
+
+O elemento div é usado para agrupar outros elementos. 
+Ele é usado principalmente para agrupar elementos que compartilharão do mesmo conjunto de estilos CSS.
+Se quiser dividir o conteúdo em seções, é melhor usar o elemento section. 
+
+-------------------
+
+O elemento id vai gerar um identificador para um elemento específico do código. Mais tarde será mais fácil gerar estilo apenas com o ID. 
+O elemento class também é usado para referenciar, mas é melhor usá-lo para várias coisas.
+
+
+
+

@@ -1,9 +1,17 @@
-h1{
-    background-color: bisque;
-    color: black;
-}
+#conteudo{
+    h1{
+        background-color: bisque;
+        color: black;
+        margin: 10px 6px 8px 4px;
+        padding: 10px 6px 8px 4px;
+        text-align: center;
+        font-style: italic;
+    }
 
-p{
-    background-color: aqua;
-    color: black;
-} 
+    p{
+        background-color: aqua;
+        color: black;
+        margin: 10px 6px 8px 4px;
+        padding: 10px 6px 8px 4px;
+    } 
+}
